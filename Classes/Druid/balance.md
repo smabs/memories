@@ -12,7 +12,7 @@ Damage attacks/spells were performed agaisnt a lvl60 dummy
 flat **1515 spellpower** (no talents, buffs, item procs, item tier bonus, glyphs, etc)
 ![setup](./img/_setup.png)
 
-## Spells
+# Spells
 Spell | status | note
 ----- | ------ | ----
 Barkskin            | &nbsp; :heavy_check_mark:
