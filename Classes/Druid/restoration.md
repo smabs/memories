@@ -57,4 +57,4 @@ Tree of Life            | &nbsp; :heavy_check_mark:
 Improved Tree of Life   | &nbsp; :heavy_check_mark:
 Improved Barkskin       | &nbsp; :heavy_check_mark: | Tooltip buff info not updating [info](./img/spell_barkskin.png)
 Gift of the Earthmother | &nbsp; :heavy_check_mark:
-Wild Growth             | &nbsp; :heavy_check_mark:
+Wild Growth             | &nbsp; :heavy_check_mark: | Although the overall damage is there, the way it ticks looks different comparing from other reliable priv server [this server](./img/spell_wild-growth1.jpg) \| [the other server](./img/spell_wild-growth2.jpg) \| [totals](./img/spell_wild-growth3.png)
