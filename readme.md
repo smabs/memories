@@ -5,3 +5,6 @@
 [Feral Combat](./Classes/Druid/feral.md)  
 [Restoration](./Classes/Druid/restoration.md)   
 [Glyphs](./Classes/Druid/glyphs.md) 
+
+## Paladin
+[Holy](./Classes/Paladin/holy.md)  
