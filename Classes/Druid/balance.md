@@ -40,7 +40,7 @@ Moonglow                | &nbsp; :heavy_check_mark:
 Nature's Majesty        | &nbsp; :heavy_check_mark:
 Improved Moonfire       | &nbsp; :heavy_check_mark:
 Brambles                | &nbsp; :warning: | Treants damage and daze effect does not work
-Nature's Grace          | &nbsp; :warning: | Doesn't proc from starfall crit damage
+Nature's Grace          | &nbsp; :heavy_check_mark:
 Nature's splendor       | &nbsp; :heavy_check_mark:
 Nature's reach          | &nbsp; :heavy_check_mark:
 Vengeance               | &nbsp; :heavy_check_mark:
